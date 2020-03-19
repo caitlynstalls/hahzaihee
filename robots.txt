@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohjaengoh.gabytm.me/sitemap.xml
